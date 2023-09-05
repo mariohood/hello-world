@@ -1,5 +1,5 @@
 # hello-world
-# https://www.youtube.com/watch?v=_CdLj6ExjX0&list=PLC3y8-rFHvwgeQIfSDtEGVvvSEPDkL_1f&index=8
+# https://www.youtube.com/watch?v=OcA4wWJIMTY&list=PLC3y8-rFHvwgeQIfSDtEGVvvSEPDkL_1f&index=15
 ## Project setup
 ```
 npm install
